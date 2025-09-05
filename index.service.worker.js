@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1756930017|763135351';
+const CACHE_VERSION = '1757091575|8425376340';
 /** @type {string} */
 const CACHE_PREFIX = 'AventurasSequenc-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
